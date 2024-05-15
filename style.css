@@ -397,6 +397,8 @@ footer {
   gap: 20px; 
   flex-wrap: wrap;
  flex-direction: row; 
+  
+  height: 480px;
  
 }
 .texto .titulos {
@@ -405,7 +407,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 1816px;
+  top: 2014px;
   width: 60px; 
   height: 50px; 
 }
@@ -415,7 +417,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 1893px;
+  top: 2091px;
   width: 60px;
   height: 50px; 
 }
@@ -425,7 +427,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 1970px;
+  top: 2168px;
   width: 60px; 
   height: 50px; 
 }
@@ -435,7 +437,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2051px;
+  top: 2255px;
   width: 60px; 
   height: 50px; 
 }
@@ -445,7 +447,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2164px;
+  top: 2357px;
   width: 60px; 
   height: 50px; 
 }
@@ -455,7 +457,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2241px;
+  top: 2439px;
   width: 60px; 
   height: 50px; 
 }
@@ -465,7 +467,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2318px;
+  top: 2516x;
   width: 60px; 
   height: 50px;
 }
@@ -475,7 +477,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2395px;
+  top: 2593px;
   width: 60px; 
   height: 50px; 
 }
@@ -485,7 +487,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2472px;
+  top: 2670px;
   width: 60px; 
   height: 50px; 
 }
@@ -495,7 +497,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2580px;
+  top: 2781px;
   width: 60px; 
   height: 50px; 
 }
@@ -505,7 +507,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2660px;
+  top: 2858px;
   width: 60px; 
   height: 50px; 
 }
@@ -515,7 +517,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2737px;
+  top: 2935px;
   width: 60px; 
   height: 50px; 
 }
@@ -525,7 +527,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2814px;
+  top: 3012px;
   width: 60px; 
   height: 50px; 
 }
@@ -535,7 +537,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2891px;
+  top: 3086px;
   width: 60px; 
   height: 50px;
 }
@@ -545,7 +547,7 @@ footer {
   display: flex;
   align-items: center;
   left: 19px;
-  top: 2968px;
+  top: 3166px;
   width: 60px; 
   height: 50px;
 }
@@ -563,5 +565,8 @@ footer {
   height: 100%;
   
 }
+
+
+
 
 
