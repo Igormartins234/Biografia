@@ -397,9 +397,7 @@ footer {
   gap: 20px; 
   flex-wrap: wrap;
  flex-direction: row; 
-  
   height: 480px;
- 
 }
 .texto .titulos {
   position: absolute;
